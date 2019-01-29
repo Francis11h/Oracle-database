@@ -1,6 +1,4 @@
-# CSC540-CARS
-CSC540 Fall 2018 project 1
-Zhangqi Zha, Yancheng Zhao, Zirun Han, Machi Shimme
+# CARS AND SERVICE CENTER PROJECT
 
 This application is implemented in java with collection to Oracle database.
 
